@@ -5,3 +5,5 @@ opencv :
   3-advanced methods
   4-geometric transforms
   5-image segmentations and recongitions
+
+thanks to dr.ghorbani and dr.akhavanpoor
